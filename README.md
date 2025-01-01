@@ -1,2 +1,2 @@
-Deployed Site 
+Churn Prediction Deployed Site 
 https://ann-churn-classification-eiyrhizwalh6rqwemyzerf.streamlit.app/
